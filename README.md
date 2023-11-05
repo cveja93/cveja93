@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cveja93
-- 👀 I’m interested in ... AUDIO plugins c++ juce framework
-- 🌱 I’m currently learning ... AUDIO programming in c++
-- 💞️ I’m looking to collaborate on ... making audio plugins in c++
+- 👀 I’m interested in ... RUST
+- 🌱 I’m currently learning ... RUST
+- 💞️ I’m looking to collaborate on ... making various RUST applications
 - 📫 How to reach me ... markocvejic93@gmail.com
 
 <!---
