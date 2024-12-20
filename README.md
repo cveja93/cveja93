@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cveja93
-- 👀 I’m interested in ... RUST
-- 🌱 I’m currently learning ... RUST
-- 💞️ I’m looking to collaborate on ... making various RUST applications
+- 👀 I’m interested in ... Audio programming
+- 🌱 I’m currently learning ... JUCE framework
+- 💞️ I’m looking to collaborate on ... making various VST plugins
 - 📫 How to reach me ... markocvejic93@gmail.com
 
 <!---
