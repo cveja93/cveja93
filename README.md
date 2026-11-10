@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cveja93
-- 👀 I’m interested in ... Audio programming
+- 👋 Hi, I’m @cveja93 guitarist/engineer
+- 👀 I’m interested in ... guitar pedals, plugins, amps, cabs
 - 🌱 I’m currently learning ... JUCE framework
-- 💞️ I’m looking to collaborate on ... making various VST plugins
+- 💞️ I’m looking to collaborate on ... making various guitar VST plugins, guitar pedals, amps
 - 📫 How to reach me ... markocvejic93@gmail.com
 
 <!---
